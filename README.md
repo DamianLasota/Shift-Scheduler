@@ -2,13 +2,26 @@
 
 ## Project Description
 
-Here goes your awesome project description!
+Shift Scheduler provides a streamlined solution for managers to create shift schedules instead of manual scheduling. Managers can create shift schedules and provides a centralized network for communication within the company, as well as be notified of shifts, conflicts, and changes. Users can post their availability or request time off within a period of time that has been set by their manager.
 
 ## Technologies Used
 
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Java
+- TypeScript
+- CSS
+- Spring ORM
+- Spring MVC
+- Hibernate
+- PostgreSQL
+- Jenkins
+- AWS EC2
+- Angular 2+
+- AWS S3
+- Log4J
+- AWS RDS
+- Git
+- Spring Framework
+- DevOps
 
 ## Features
 
@@ -41,7 +54,3 @@ To-do list:
 ## Contributors
 
 > Here list the people who have contributed to this project. (ignore this section, if its a solo project)
-
-## License
-
-This project uses the following license: [<license_name>](link).
