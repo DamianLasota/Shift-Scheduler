@@ -1,5 +1,24 @@
+/.metadata/
+
+#node_modules
+.node_modules
+
+#DS_Store
+.DS_Store
+
+# Target folder
+P2Scheduler/target.*
+P2Scheduler/\..*
+P2Scheduler/Servers
+
 # Compiled class file
 *.class
+
+# Project files
+P2Scheduler/.project
+
+# Classpath files
+P2Scheduler/.classpath
 
 # Log file
 *.log
