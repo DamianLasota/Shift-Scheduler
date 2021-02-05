@@ -58,18 +58,18 @@ To-do list:
 
 ## Usage
 
-> Click get started on landing page to navigate to login
-> Login as employee/manager
-> Navigate site through the navbar
-> Enjoy functionality mentioned above
+- Click get started on landing page to navigate to login
+- Login as employee/manager
+- Navigate site through the navbar
+- Enjoy functionality mentioned above
 
 ## Contributors
 
-> Dylan Mahaffey (Front End Developer/ Front End Manager)
-> Calvin Mak (Front End Developer/ Scrum Master)
-> George Yoo (Front End Developer)
-> William He (Front End Developer)
-> Tyler Ojala (Back End Developer/ Back End Manager)
-> Elisha Sword (Back End Developer/ DevOps Engineer)
-> Damian Lasota (Back End Developer)
-> Michael Jolley (Back End Developer)
+- Dylan Mahaffey (Front End Developer/ Front End Manager)
+- Calvin Mak (Front End Developer/ Scrum Master)
+- George Yoo (Front End Developer)
+- William He (Front End Developer)
+- Tyler Ojala (Back End Developer/ Back End Manager)
+- Elisha Sword (Back End Developer/ DevOps Engineer)
+- Damian Lasota (Back End Developer)
+- Michael Jolley (Back End Developer)
